@@ -1,0 +1,12 @@
+*input/Test Files/Test Files/*.csv
+*input/Train Files/Train Files/*.csv
+
+*.png
+*.pkl
+
+*.ipynb_checkpoints
+*__pycache__
+*.idea
+
+*__MACOSX
+*.html
